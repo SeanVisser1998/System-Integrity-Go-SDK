@@ -32,7 +32,7 @@ The goal of this project is to create an SDK that enables Go developers to easil
 
 ## Documentation
 
-You can find documentation on Readthedocs. https://system-integrity-go-sdk.readthedocs.io/en/latest/
+You can find documentation on Readthedocs: https://system-integrity-go-sdk.readthedocs.io/en/latest/
 
 ## Visuals
 
