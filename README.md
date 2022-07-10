@@ -1,6 +1,6 @@
 # System Integrity Go SDK project
 
-## A project where a developer-friendly, efficient, and effective tool for verifying system integrity of (sensitive) devices Go SDK will be developed
+## A hobby project where a developer-friendly, efficient, and effective tool for verifying system integrity of (sensitive) devices Go SDK will be developed
 
 The goal of this project is to create an SDK that enables Go developers to easily implement the maintaining of consistency, accuracy and trustworthyness of system data during (physical) transit in their products or services. 
 
@@ -28,15 +28,11 @@ The goal of this project is to create an SDK that enables Go developers to easil
   * NIST P-384
   * NIST P-521
 
-  If you are looking for other EC-curves or even RSA, please stick around. More curves are intented to be implemented in the future.
-
-## Roadmap 
-
-Roadmap is coming soon
+  If you are looking for other EC-curves or even RSA, please stick around. More curves and DSA are intented to be implemented in the future.
 
 ## Documentation
 
-Documentation on readthedocs is coming soon
+You can find documentation on Readthedocs. https://system-integrity-go-sdk.readthedocs.io/en/latest/
 
 ## Visuals
 
